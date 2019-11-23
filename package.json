@@ -1,0 +1,23 @@
+{
+  "name": "vp-site",
+  "version": "1.0.0",
+  "description": "My site description",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softchris/serverless-graphql-microservices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/softchris/serverless-graphql-microservices/issues"
+  },
+  "homepage": "https://github.com/softchris/serverless-graphql-microservices#readme"
+}
